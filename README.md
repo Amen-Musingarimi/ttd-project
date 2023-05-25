@@ -14,6 +14,7 @@
     - [Usage](#usage)
     - [Run tests](#run-tests)
   - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
@@ -96,6 +97,12 @@ Run tests with:
 
 - GitHub: [@githubhandle](https://github.com/Amen-Musingarimi)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/atmusingarimi/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- Take in a string and return a number
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
