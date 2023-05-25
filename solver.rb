@@ -1,6 +1,3 @@
-# frozen_string_literal: true
-
-# Solver class performs various calculations and operations.
 class Solver
   def factorial(num)
     raise ArgumentError, 'Factorial is only defined for non-negative integers.' if num.negative?
